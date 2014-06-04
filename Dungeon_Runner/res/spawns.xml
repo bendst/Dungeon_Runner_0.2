@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<spawn>
+	<Level level="A_LV.xml">
+		<mob>0</mob>
+		<exit>2</exit>
+		<ex1>832,032</ex1>
+		<ex2>000,600</ex2>
+	</Level>
+	<Level level="B_LV.xml">
+		<count>1</count>
+		<mob>K</mob>
+		<sx>650</sx>
+		<sy>128</sy>
+		<exit>2</exit>
+		<ex1>832,128</ex1>
+		<ex2>000,032</ex2>
+	</Level>
+	<Level level="C_LV.xml">
+		<count>2</count>
+		<mob>K</mob>
+		<sx>235</sx>
+		<sy>128</sy>
+		<mob>K</mob>
+		<sx>700</sx>
+		<sy>32</sy>
+		<exit>3</exit>
+		<ex1>832,288</ex1>
+		<ex2>832,032</ex2>
+		<ex3>000,128</ex3>
+	</Level>
+	<Level level="D_LV.xml">
+	    <count>3</count>
+	    <mob>K</mob>
+        <sx>370</sx>
+        <sy>352</sy>
+        <mob>K</mob>
+        <sx>370</sx>
+        <sy>192</sy>
+        <mob>K</mob>
+        <sx>400</sx>
+        <sy>032</sy>
+        <exit>2</exit>
+        <ex1>832,032</ex1>
+        <ex2>000,352</ex2>
+	</Level>
+	<Level level="E_LV.xml">
+	    <count>3</count>
+	    <mob>K</mob>
+        <sx>250</sx>
+        <sy>032</sy>
+        <mob>K</mob>
+        <sx>130</sx>
+        <sy>192</sy>
+        <mob>K</mob>
+        <sx>280</sx>
+        <sy>320</sy>
+        <exit>3</exit>
+        <ex1>832,032</ex1>
+        <ex2>832,384</ex2>
+        <ex3>000,032</ex3>     
+	</Level>
+	<Level level="F_LV.xml">
+	    <count>4</count>
+	    <mob>K</mob>
+        <sx>230</sx>
+        <sy>512</sy>
+        <mob>K</mob>
+        <sx>510</sx>
+        <sy>352</sy>
+        <mob>K</mob>
+        <sx>570</sx>
+        <sy>480</sy>
+        <mob>K</mob>
+        <sx>160</sx>
+        <sy>032</sy>
+        <exit>2</exit>
+        <ex1>832,032</ex1>
+        <ex2>000,512</ex2>
+	</Level>
+	<Level level="G_LV.xml">
+        <count>4</count>
+        <mob>K</mob>
+        <sx>50</sx>
+        <sy>160</sy>
+        <mob>K</mob>
+        <sx>50</sx>
+        <sy>288</sy>
+        <mob>K</mob>
+        <sx>740</sx>
+        <sy>160</sy>
+        <mob>K</mob>
+        <sx>740</sx>
+        <sy>288</sy>
+	    <exit>2</exit>
+        <ex1>832,032</ex1>
+        <ex2>000,032</ex2>
+	</Level>
+	<Level level="H_LV.xml">
+	    <count>2</count>
+        <mob>K</mob>
+        <sx>125</sx>
+        <sy>360</sy>
+        <mob>K</mob>
+        <sx>480</sx>
+        <sy>200</sy>
+	    <exit>2</exit>
+        <ex1>832,288</ex1>
+        <ex2>000,032</ex2>
+    </Level>
+    <Level level="I_LV.xml">
+        <count>2</count>
+        <mob>K</mob>
+        <sx>200</sx>
+        <sy>192</sy>
+        <mob>K</mob>
+        <sx>730</sx>
+        <sy>352</sy>
+        <exit>2</exit>
+        <ex1>832,032</ex1>
+        <ex2>000,288</ex2>
+    </Level>
+    <Level level="J_LV.xml">
+        <count>2</count>
+        <mob>K</mob>
+        <sx>240</sx>
+        <sy>224</sy>
+        <mob>K</mob>
+        <sx>600</sx>
+        <sy>224</sy>
+        <exit>2</exit>
+        <ex1>832,224</ex1>
+        <ex2>000,224</ex2>
+    </Level>
+    <Level level="K_LV.xml">
+        <count>10</count>
+        <exit>2</exit>
+        <ex1>800, 600</ex1>
+        <ex2>020, 128</ex2>
+    </Level>
+</spawn>

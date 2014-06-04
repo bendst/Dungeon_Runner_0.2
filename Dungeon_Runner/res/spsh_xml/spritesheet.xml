@@ -1,0 +1,28 @@
+<spritesheet rows="4" columns="8">
+	<sprites>
+	<id name="Spieler">
+		<att index="0" path="spsh_images/Entitysheet.png"/>
+	</id>
+	<id name="T">
+		<att index="0" path="spsh_images/Entitysheet.png" />
+	</id>
+	<id name="B">
+		<att index="0" path="Spritesheet_MA.png"/>
+	</id>
+	<id name="A">
+		<att index="0" path="spsh_images/Entitysheet.png"/>		
+	</id>
+	<id name="K">
+		<att index="8" path="spsh_images/Entitysheet.png"/>
+	</id>	
+	<id name="life">
+	    <att index="7" path="spsh_images/Entitysheet.png"/>
+	</id>
+	<id name="H">
+        <att index="15" path="spsh_images/Entitysheet.png"/>
+    </id>
+    <id name="Key">
+        <att index="16" path="spsh_images/Entitysheet.png"/>
+    </id>
+	</sprites>
+</spritesheet>
